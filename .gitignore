@@ -1,0 +1,4 @@
+*.db
+*.lnk
+yarn.lock
+__pycache__/
